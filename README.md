@@ -1,5 +1,6 @@
 # Numerical Stability and Stiffness: An Analysis of Euler's Method in Linear Differential Equations
 
+[Read the Paper Here](paper.pdf)
 Analysis of numerical stability, stiffness, and convergence behavior of Euler's Method when applied to linear and nonlinear differential equations.
 
 ## Overview
